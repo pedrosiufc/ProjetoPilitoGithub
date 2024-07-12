@@ -1,0 +1,4 @@
+realizando alterações com comandos via GitBash
+commit
+push
+add
